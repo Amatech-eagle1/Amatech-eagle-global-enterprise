@@ -23,7 +23,8 @@ To become one of Africa’s leading aluminum trading companies known for quality
 **Business Name:** Amatech Eagle Global Enterprises  
 **Email:** amatecheagleglobalenterprises@gmail.com
 **Phone:** +234 703 277 0374,+234 805 331 5306
-**Address:** Nigeria  
+**Location:** Nigeria  
+**Address:** 57c Oyewole Road; off Iyana-Ipaja, lagos, Agege
 
 ## 🌐 Website
 Visit our official website: [https://amatecheagleglobalenterprises.netlify.app](https://amatecheagleglobalenterprises.netlify.app)
